@@ -1,5 +1,5 @@
 # Validate-Input-Function
-My validate input function/code that I created in C++
+My validate input code that I created in C++
 
 
 Function validates integer input from user, will take two
