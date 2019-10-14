@@ -40,6 +40,8 @@ unsigned int validateInput(unsigned int min, unsigned int max)
 
 		}
 	}
-
-	return option; 
+ 
+
+	return option; 
+
 }
